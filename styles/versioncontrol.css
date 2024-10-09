@@ -34,12 +34,14 @@ body {
 }
 
 .git-commands_command {
-    background-color: #3d5183;
+    background-color: #d67070;
     padding: 16px;
+    color: #fff;
 }
 
 .git-commands_effect {
-    background-color: #7692ff;
+    background-color: #d8a7cc;
     padding: 16px;
     font-size: 1.5rem;
+    color: #fff;
 }
